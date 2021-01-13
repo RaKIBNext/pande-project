@@ -1,0 +1,15 @@
+.design-card{
+    border: 0;
+}
+.footer{
+    border: 0;
+    background-color:white;
+}
+.cate img{
+width: 100px;
+
+}
+.Panda-slide .carousel-item{
+    border-radius: 1em;
+    background-color: wheat;
+}
